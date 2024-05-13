@@ -1,0 +1,14 @@
+h1{
+    background-color: brown;
+    width: 60px;
+    height: 60px;
+    padding: 50px;
+}
+ul{
+    color: aliceblue;
+background-color: royalblue;
+}
+li{
+    display: inline-block;
+    padding: 3%;
+}

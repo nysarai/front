@@ -1,0 +1,31 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Jacquard+24+Charted&display=swap');
+
+h1{
+    font-family: "Jacquard 12", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} */
+.box{
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+}
+.box{
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+}
+.box{
+    background-color: royalblue;
+    width: 100px;
+    height: 100px;
+}
+.box-wrapper{
+    background-color: palevioletred;
+    display:flex ;
+    justify-content:start;
+    flex-direction: column;/*left and right*/
+    row-gap: 50px;
+    height:100vh; 
+    /* align-items: flex-end; top to bottom */
+}
